@@ -1,0 +1,13 @@
+.body_background 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#burger3
+{
+   border-width: 10px;
+   background-color:chartreuse;
+   border-style:groove;
+}
+
